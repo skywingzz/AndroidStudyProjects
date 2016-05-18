@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/intermediates/res/merged/debug/layout/recipe.xml",
+        "source": "/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/layout/recipe.xml"
+    },
+    {
+        "merged": "/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/intermediates/res/merged/debug/layout/step_item.xml",
+        "source": "/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/layout/step_item.xml"
+    },
+    {
+        "merged": "/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/layout/list_item.xml"
+    }
+]

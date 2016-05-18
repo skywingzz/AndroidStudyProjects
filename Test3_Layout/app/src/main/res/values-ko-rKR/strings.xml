@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Test3_Layout</string>
+    <string name="button_label">이미지 바꾸기</string>
+</resources>

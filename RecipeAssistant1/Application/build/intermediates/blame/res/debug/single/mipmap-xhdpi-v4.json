@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_app_recipe.png",
+        "source": "/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/mipmap-xhdpi/ic_app_recipe.png"
+    },
+    {
+        "merged": "/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_notification_recipe.png",
+        "source": "/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/mipmap-xhdpi/ic_notification_recipe.png"
+    }
+]

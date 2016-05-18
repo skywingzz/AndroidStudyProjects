@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="21.0.2$Generated" generated="true"><source path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/res"/></dataSet><dataSet config="21.0.2$Generated" generated="true"><source path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/res"/></dataSet><dataSet config="21.0.2$Generated" generated="true"><source path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/res"/></dataSet><dataSet config="main$Generated" generated="true"><source path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res"/><source path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/common/res"/><source path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/template/res"/><source path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/generated/res/rs/debug"/><source path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/debug/res"/></dataSet><dataSet config="21.0.2" from-dependency="true" generated-set="21.0.2$Generated"><source path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/res"><file path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/res/values/values.xml" qualifiers=""><declare-styleable name="CardView">
+
+        <!-- Background color for CardView. -->
+        <attr format="color" name="cardBackgroundColor"/>
+        <!-- Corner radius for CardView. -->
+        <attr format="dimension" name="cardCornerRadius"/>
+        <!-- Elevation for CardView. -->
+        <attr format="dimension" name="cardElevation"/>
+        <!-- Maximum Elevation for CardView. -->
+        <attr format="dimension" name="cardMaxElevation"/>
+        <!-- Add padding in API v21+ as well to have the same measurements with previous versions. -->
+        <attr format="boolean" name="cardUseCompatPadding"/>
+        <!-- Add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners. -->
+        <attr format="boolean" name="cardPreventCornerOverlap"/>
+        <!-- Inner padding between the edges of the Card and children of the CardView. -->
+        <attr format="dimension" name="contentPadding"/>
+        <!-- Inner padding between the left edge of the Card and children of the CardView. -->
+        <attr format="dimension" name="contentPaddingLeft"/>
+        <!-- Inner padding between the right edge of the Card and children of the CardView. -->
+        <attr format="dimension" name="contentPaddingRight"/>
+        <!-- Inner padding between the top edge of the Card and children of the CardView. -->
+        <attr format="dimension" name="contentPaddingTop"/>
+        <!-- Inner padding between the bottom edge of the Card and children of the CardView. -->
+        <attr format="dimension" name="contentPaddingBottom"/>
+    </declare-styleable><color name="cardview_shadow_start_color">#37000000</color><dimen name="cardview_default_elevation">2dp</dimen><style name="CardView">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+        <item name="cardCornerRadius">@dimen/cardview_default_radius</item>
+        <item name="cardElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardMaxElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardUseCompatPadding">false</item>
+        <item name="cardPreventCornerOverlap">true</item>
+    </style><dimen name="cardview_compat_inset_shadow">1dp</dimen><color name="cardview_shadow_end_color">#03000000</color><style name="CardView.Light">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+    </style><color name="cardview_light_background">#FFFAFAFA</color><dimen name="cardview_default_radius">2dp</dimen><style name="CardView.Dark">
+        <item name="cardBackgroundColor">@color/cardview_dark_background</item>
+    </style><color name="cardview_dark_background">#FF202020</color></file></source></dataSet><dataSet config="21.0.2" from-dependency="true" generated-set="21.0.2$Generated"><source path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/res"/></dataSet><dataSet config="21.0.2" from-dependency="true" generated-set="21.0.2$Generated"><source path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res"><file name="ic_noimage" path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/drawable-hdpi/ic_noimage.png" qualifiers="hdpi-v4" type="drawable"/><file name="recipe_category" path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/drawable-hdpi/recipe_category.png" qualifiers="hdpi-v4" type="drawable"/><file name="tile" path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/drawable-hdpi/tile.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_noimage" path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/drawable-mdpi/ic_noimage.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_noimage" path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/drawable-xhdpi/ic_noimage.png" qualifiers="xhdpi-v4" type="drawable"/><file name="list_item" path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/layout/list_item.xml" qualifiers="" type="layout"/><file name="recipe" path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/layout/recipe.xml" qualifiers="" type="layout"/><file name="step_item" path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/layout/step_item.xml" qualifiers="" type="layout"/><file name="main" path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/menu/main.xml" qualifiers="" type="menu"/><file name="ic_app_recipe" path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/mipmap-hdpi/ic_app_recipe.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_notification_recipe" path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/mipmap-hdpi/ic_notification_recipe.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_app_recipe" path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/mipmap-mdpi/ic_app_recipe.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_notification_recipe" path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/mipmap-mdpi/ic_notification_recipe.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_app_recipe" path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/mipmap-xhdpi/ic_app_recipe.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_notification_recipe" path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/mipmap-xhdpi/ic_notification_recipe.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_app_recipe" path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/mipmap-xxhdpi/ic_app_recipe.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_notification_recipe" path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/mipmap-xxhdpi/ic_notification_recipe.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_app_recipe" path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/mipmap-xxxhdpi/ic_app_recipe.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_notification_recipe" path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/mipmap-xxxhdpi/ic_notification_recipe.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/values/base-strings.xml" qualifiers=""><string name="intro_message">
+        
+        
+            
+            This phone application uses the enhanced notifications API to display recipe
+            instructions using paged notifications. After starting the application on your phone, you can browse
+            from a short list of recipes and select one to view. Each recipe is broken down into a number of
+            steps; when ready, you can click on the START action in the action bar to send the steps to the
+            wearable. On the wearable device, the steps are displayed as a multi-page notification, with one
+            page for each step in the recipe.
+            
+        
+        
+    </string><string name="app_name">RecipeAssistant</string></file><file path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/values/colors.xml" qualifiers=""><color name="list_image_bg_color">#6aaa</color><color name="list_text_bg_color">#dfff</color></file><file path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/values/strings.xml" qualifiers=""><string name="step_count">Step %1$d of %2$d</string><string name="ingredients">Ingredients</string><string name="action_settings">Settings</string><string name="action_cook">Start</string><string name="steps">Steps</string></file><file path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/values/styles.xml" qualifiers=""><style name="RecipeSummaryFont" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#333333</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style><style name="RecipeTitleFont" parent="@android:style/TextAppearance.Large">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#333333</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style><style name="RecipeHugeFont" parent="@android:style/TextAppearance.Large">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#333333</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">20pt</item>
+    </style></file><file path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/values/template-dimens.xml" qualifiers=""><dimen name="margin_small">8dp</dimen><dimen name="vertical_page_margin">@dimen/margin_medium</dimen><dimen name="margin_tiny">4dp</dimen><dimen name="margin_large">32dp</dimen><dimen name="margin_huge">64dp</dimen><dimen name="margin_medium">16dp</dimen><dimen name="horizontal_page_margin">@dimen/margin_medium</dimen></file><file path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/values/template-styles.xml" qualifiers=""><style name="Theme.Base" parent="android:Theme.Light"/><style name="Widget.SampleMessage">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+    </style><style name="AppTheme" parent="Theme.Sample"/><style name="Theme.Sample" parent="Theme.Base"/><style name="Widget"/><style name="Widget.SampleMessageTile">
+        <item name="android:background">@drawable/tile</item>
+        <item name="android:shadowColor">#7F000000</item>
+        <item name="android:shadowDy">-3.5</item>
+        <item name="android:shadowRadius">2</item>
+    </style></file><file path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/values-sw600dp/template-dimens.xml" qualifiers="sw600dp-v13"><dimen name="vertical_page_margin">@dimen/margin_medium</dimen><dimen name="horizontal_page_margin">@dimen/margin_huge</dimen></file><file path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/values-sw600dp/template-styles.xml" qualifiers="sw600dp-v13"><style name="Widget.SampleMessage">
+        <item name="android:textAppearance">?android:textAppearanceLarge</item>
+        <item name="android:lineSpacingMultiplier">1.2</item>
+        <item name="android:shadowDy">-6.5</item>
+    </style></file><file path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/values-v11/template-styles.xml" qualifiers="v11"><style name="Theme.Base" parent="android:Theme.Holo.Light"/></file><file path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/values-v21/base-template-styles.xml" qualifiers="v21"><style name="Theme.Base" parent="android:Theme.Material.Light">
+    </style></file></source><source path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/common/res"/><source path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/template/res"/><source path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/generated/res/rs/debug"/><source path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/debug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="CardView"><attr format="color" name="cardBackgroundColor"/><attr format="dimension" name="cardCornerRadius"/><attr format="dimension" name="cardElevation"/><attr format="dimension" name="cardMaxElevation"/><attr format="boolean" name="cardUseCompatPadding"/><attr format="boolean" name="cardPreventCornerOverlap"/><attr format="dimension" name="contentPadding"/><attr format="dimension" name="contentPaddingLeft"/><attr format="dimension" name="contentPaddingRight"/><attr format="dimension" name="contentPaddingTop"/><attr format="dimension" name="contentPaddingBottom"/></declare-styleable></configuration></mergedItems></merger>

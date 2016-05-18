@@ -1,0 +1,19 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:head="http://apache.org/headers" xmlns:open="http://openapi.foodsafety.go.kr">
+    <soapenv:Header>
+        <head:ComMsgHeader>
+            <RequestMsgID>1</RequestMsgID>
+            <ServiceKey>KjHpwYu0kgrn0KQtrx+tZe+FZPAjgzCdA2/17aMuRVlsyAwZ4b+7NDHh2rhsLHb3ivbyjgAdT55AgAt59aHRHQ==</ServiceKey>
+
+        </head:ComMsgHeader>
+    </soapenv:Header>
+    <soapenv:Body>
+        <open:getRecipeList>
+            <!--Optional:-->
+            <RecipeListRequest>
+                <Now_page_no>1</Now_page_no>
+                <Page_mg>3</Page_mg>
+                <M_menu_code>1</M_menu_code>
+            </RecipeListRequest>
+        </open:getRecipeList>
+    </soapenv:Body>
+</soapenv:Envelope>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.2_040021914af9c9b541c10fef6266ef13b5588854/classes.dex" />
+    </item>
+    <item
+        jar="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/jars/libs/internal_impl-21.0.2.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.2_343a89490ec5e1bb5e6bf36f9b1e18e266d9d693/classes.dex" />
+    </item>
+    <item
+        jar="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a7ef39e77c4307974f121e1f33d2820ae1e93232">
+        <dex dex="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f552f1be5829963ea23f9dcf96d893726708c889/classes.dex" />
+    </item>
+    <item
+        jar="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/libs/internal_impl-21.0.2.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.2_4671930402c806ae87e0a1d8df9859c1621655d7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-21.0.2_daefc8bae4bd27d4f8164dcbc7fb8dd5653a0ed8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-21.0.2_4431a0115e073288d0ee955a3c30396ccd918926/classes.dex" />
+    </item>
+    <item
+        jar="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="285056503f827e831e70621b72f4fa569bbb2544">
+        <dex dex="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ce9ab865e1a2cd2fb97fd04d8bf24bb421aeb4aa/classes.dex" />
+    </item>
+    <item
+        jar="/Users/skywing/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.2_76e5b625e8607cf7e554e03e3c8dc19e52ac4c7b/classes.dex" />
+    </item>
+
+</items>

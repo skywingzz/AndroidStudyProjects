@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/tile.9.png",
+        "source": "/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/recipe_category.png",
+        "source": "/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/drawable-hdpi/recipe_category.png"
+    },
+    {
+        "merged": "/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_noimage.png",
+        "source": "/Users/skywing/AndroidStudioProjects/RecipeAssistant1/Application/src/main/res/drawable-hdpi/ic_noimage.png"
+    }
+]
